@@ -9,19 +9,17 @@
 <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/HTML.png"/>
 <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/css.png"/>
 <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/JavaScript.png"/>
-<img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/firebase.png"/>
+<img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/c.png"/>
+<img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/cpp.png"/>
+<img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/Bootsrap.png"/>
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/react.png"/>
 <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/node.png"/>
 <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/express.png"/>
 <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/mongo.png"/>
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/c.png"/>
-<img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/cpp.png"/>
 <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/tailwind.png"/>
-<img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/Bootsrap.png"/>
+<img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/firebase.png"/>
 </p><br/>
 
 ## :chart_with_upwards_trend: Github Stats
