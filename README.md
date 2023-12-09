@@ -10,9 +10,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/linkedin.png">](https://www.linkedin.com/in/shahjalal2075/)
-[<img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/facebook.png">](https://www.facebook.com/shahjalal2075)
-[<img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/twitter.png"> </p>](https://twitter.com/shahjalal2075)
+[<p align="center"><img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/linkedin.png">](https://www.linkedin.com/in/shahjalal2075/)[<img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/facebook.png">](https://www.facebook.com/shahjalal2075)[<img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/twitter.png"> </p>](https://twitter.com/shahjalal2075)
 
 <br />
 
