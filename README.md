@@ -12,11 +12,8 @@
 </p>
 
 <div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahjalal2075&theme=2077" style="flex: 1;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahjalal2075&theme=2077" style="flex: 1;">
 </div>
-
-
-
-
-
+</div>
