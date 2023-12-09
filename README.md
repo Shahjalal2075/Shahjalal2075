@@ -4,7 +4,21 @@
 
 ## :eyes: Overview
 
+### 🔭 I’m 
+
 <br />
+
+## :mailbox: Reach me out
+
+<br />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahjalal2075" target="_blank"><img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/linkedin.png" /></a>
+  <a href="https://facebook.com/shahjalal2075" target="_blank"><img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/facebook.png" /></a>
+  <a href="https://twitter.com/shahjalal2075" target="_blank"><img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/twitter.png" /></a>
+</p>
+<br/>
+
 
 ## :chart_with_upwards_trend: Github Stats
 
@@ -23,17 +37,6 @@
 </div>
 
 </br>
-
-## :mailbox: Reach me out
-
-<br />
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahjalal2075" target="_blank"><img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/linkedin.png" /></a>
-  <a href="https://facebook.com/shahjalal2075" target="_blank"><img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/facebook.png" /></a>
-  <a href="https://twitter.com/shahjalal2075" target="_blank"><img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/twitter.png" /></a>
-</p>
-<br/>
 
 ## :computer: Languages and Tools that I know
 
