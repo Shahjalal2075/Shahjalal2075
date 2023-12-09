@@ -11,6 +11,7 @@
 <br />
 
 <div align="center" style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;">
     <a href="https://www.linkedin.com/in/shahjalal2075/" style="flex: 1;">
         <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/linkedin.png" />
     </a>
@@ -20,6 +21,7 @@
     <a href="https://twitter.com/shahjalal2075" style="flex: 1;">
         <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/twitter.png" />
     </a>
+    </div>
 </div>
 
 
