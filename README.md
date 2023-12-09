@@ -10,15 +10,15 @@
 
 <br />
 
-<div width="60%" align="center" style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center;">
     <a href="https://www.linkedin.com/in/shahjalal2075/">
-        <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/linkedin.png" />
+        <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/linkedin.png" style="flex: 1;"/>
     </a>
     <a href="https://www.facebook.com/shahjalal2075">
-        <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/facebook.png" />
+        <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/facebook.png" style="flex: 1;"/>
     </a>
     <a href="https://twitter.com/shahjalal2075">
-        <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/twitter.png" />
+        <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/twitter.png" style="flex: 1;"/>
     </a>
 </div>
 
