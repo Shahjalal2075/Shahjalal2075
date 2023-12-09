@@ -10,15 +10,10 @@
 <p align="center">
   <img width="full" src="https://github-readme-streak-stats.herokuapp.com?user=Shahjalal2075&theme=tokyonight&border_radius=16&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats" />
 </p>
-<p align="center">
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahjalal2075&theme=2077" />
 
-  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahjalal2075&theme=2077" />
-</p>
-
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahjalal2075&theme=2077" alt="Description 1" style="flex: 1;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahjalal2075&theme=2077" alt="Description 2" style="flex: 1;">
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahjalal2075&theme=2077" style="flex: 1;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahjalal2075&theme=2077" style="flex: 1;">
 </div>
 
 
