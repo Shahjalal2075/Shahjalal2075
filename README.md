@@ -10,25 +10,12 @@
 
 <br />
 
-<div align="center" style="display: flex; justify-content: center;">
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 1;">
-    <a href="https://www.linkedin.com/in/shahjalal2075/">
-        <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/linkedin.png" />
-    </a>
-  </div>
-  <div style="flex: 1;">
-    <a href="https://www.facebook.com/shahjalal2075">
-        <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/facebook.png" />
-    </a>
-  </div>
-  <div style="flex: 1;">
-    <a href="https://twitter.com/shahjalal2075">
-        <img src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/twitter.png" />
-    </a>
-  </div>
-</div>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahjalal2075" target="_blank"><img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/linkedin.png" /></a>
+  <a href="https://facebook.com/shahjalal2075" target="_blank"><img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/facebook.png" /></a>
+  <a href="https://twitter.com/shahjalal2075" target="_blank"><img height="75" src="https://raw.githubusercontent.com/Shahjalal2075/Shahjalal2075/main/assets/icons/twitter.png" /></a>
+</p>
+<br/>
 
 
 <br />
