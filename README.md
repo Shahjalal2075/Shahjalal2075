@@ -26,10 +26,11 @@
 
 ## :chart_with_upwards_trend: Github Stats
 
-<p align="center">
-    <img width="full" src="https://github-readme-streak-stats.herokuapp.com?user=Shahjalal2075&theme=tokyonight&border_radius=16&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats" />
-</p>
 
+
+<p align="center">
+    <img width="full" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahjalal2075&theme=2077" />
+</p>
 <p align="center">
     <img width="full" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahjalal2075&theme=2077" />
 </p>
